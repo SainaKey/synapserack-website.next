@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main>
       <div>
-        <p>documentの内容のテストだよ～</p>
+        <p className="text-red-500">documentの内容のテストだよ～</p>
           <Footer/>
       </div>
     </main>
